@@ -21,3 +21,4 @@
 - [React.js - reconciliation][react-reconciliation]
 - [InfoQ - react conf 2019 custom renderer](https://www.infoq.com/news/2020/01/react-conf-2019-custom-renderer/)
 - [React reconciler README](https://www.npmjs.com/package/react-reconciler)
+- [medium - hello world custom react renderer](https://medium.com/@agent_hunt/hello-world-custom-react-renderer-9a95b7cd04bc)
